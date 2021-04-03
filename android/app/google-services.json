@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737828281651",
+    "firebase_url": "https://alcool-ou-gasolina-2c3e9.firebaseio.com",
+    "project_id": "alcool-ou-gasolina-2c3e9",
+    "storage_bucket": "alcool-ou-gasolina-2c3e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737828281651:android:1b363798855b45e050b246",
+        "android_client_info": {
+          "package_name": "br.com.softlike.aog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737828281651-c9ker2qta8kseapusdpeqgvubs8105k8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.softlike.aog",
+            "certificate_hash": "dc98fc2f7ff3779a15eb347e642915dca41123ad"
+          }
+        },
+        {
+          "client_id": "737828281651-tlqvck226isjaaq37tbtggi8mepb32r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjyv9SWYqeH-PSrWbyttxO75XSQqaN_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737828281651-tlqvck226isjaaq37tbtggi8mepb32r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
